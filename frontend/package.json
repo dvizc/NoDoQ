@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@semaphore-protocol/identity": "^4.13.1",
     "@tailwindcss/vite": "^4.1.13",
     "ethers": "^6.7.0",
     "framer-motion": "^10.16.4",

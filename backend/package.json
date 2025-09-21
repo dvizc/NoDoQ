@@ -5,6 +5,8 @@
     "dev": "node src/server.js"
   },
   "dependencies": {
+    "@semaphore-protocol/group": "^4.13.1",
+    "@semaphore-protocol/proof": "^4.13.1",
     "express": "^4.21.2"
   },
   "description": "",
